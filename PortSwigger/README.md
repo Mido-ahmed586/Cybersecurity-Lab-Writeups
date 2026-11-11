@@ -2,22 +2,11 @@
 
 Write-ups for labs completed on [PortSwigger Web Security Academy](https://portswigger.net/web-security).
 
-Organize labs by vulnerability category. Follow PortSwigger's terms and content-sharing guidance when publishing solutions.
+## API Testing
 
-## Categories
+- [Exploiting an API Endpoint Using Documentation](./API-Testing/Exploiting-an-API-Endpoint-Using-Documentation/README.md) — Apprentice
+- [Finding and Exploiting an Unused API Endpoint](./API-Testing/Finding-and-Exploiting-an-Unused-API-Endpoint/README.md) — Practitioner
 
-- [SQL Injection](./SQL-Injection/)
-- [Cross-Site Scripting (XSS)](./Cross-Site-Scripting/)
-- [Authentication](./Authentication/)
-- [Access Control](./Access-Control/)
-- [File Upload](./File-Upload/)
+## Other Categories
 
-## Write-ups
-
-- [Exploiting an API Endpoint Using Documentation](./API-Security/Exploiting-an-API-Endpoint-Using-Documentation/README.md) — Apprentice, API Security
-
-
-## Write-ups
-
-- [Finding and Exploiting an Unused API Endpoint](./API-Testing/Finding-and-Exploiting-an-Unused-API-Endpoint/README.md) — Practitioner, API Testing
-- [Exploiting an API Endpoint Using Documentation](./API-Security/Exploiting-an-API-Endpoint-Using-Documentation/README.md) — Apprentice, API Security
+Additional vulnerability categories will be added as write-ups are completed.
