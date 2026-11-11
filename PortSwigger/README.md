@@ -14,4 +14,4 @@ Organize labs by vulnerability category. Follow PortSwigger's terms and content-
 
 ## Write-ups
 
-_No write-ups added yet._
+- [Exploiting an API Endpoint Using Documentation](./API-Security/Exploiting-an-API-Endpoint-Using-Documentation/README.md) — Apprentice, API Security
